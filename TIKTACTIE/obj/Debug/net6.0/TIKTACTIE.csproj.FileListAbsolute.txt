@@ -1,0 +1,15 @@
+/Users/doubradaunemigha/Desktop/TIKTACTIE/bin/Debug/net6.0/TIKTACTIE
+/Users/doubradaunemigha/Desktop/TIKTACTIE/bin/Debug/net6.0/TIKTACTIE.deps.json
+/Users/doubradaunemigha/Desktop/TIKTACTIE/bin/Debug/net6.0/TIKTACTIE.runtimeconfig.json
+/Users/doubradaunemigha/Desktop/TIKTACTIE/bin/Debug/net6.0/TIKTACTIE.dll
+/Users/doubradaunemigha/Desktop/TIKTACTIE/bin/Debug/net6.0/TIKTACTIE.pdb
+/Users/doubradaunemigha/Desktop/TIKTACTIE/obj/Debug/net6.0/TIKTACTIE.csproj.AssemblyReference.cache
+/Users/doubradaunemigha/Desktop/TIKTACTIE/obj/Debug/net6.0/TIKTACTIE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doubradaunemigha/Desktop/TIKTACTIE/obj/Debug/net6.0/TIKTACTIE.AssemblyInfoInputs.cache
+/Users/doubradaunemigha/Desktop/TIKTACTIE/obj/Debug/net6.0/TIKTACTIE.AssemblyInfo.cs
+/Users/doubradaunemigha/Desktop/TIKTACTIE/obj/Debug/net6.0/TIKTACTIE.csproj.CoreCompileInputs.cache
+/Users/doubradaunemigha/Desktop/TIKTACTIE/obj/Debug/net6.0/TIKTACTIE.dll
+/Users/doubradaunemigha/Desktop/TIKTACTIE/obj/Debug/net6.0/refint/TIKTACTIE.dll
+/Users/doubradaunemigha/Desktop/TIKTACTIE/obj/Debug/net6.0/TIKTACTIE.pdb
+/Users/doubradaunemigha/Desktop/TIKTACTIE/obj/Debug/net6.0/TIKTACTIE.genruntimeconfig.cache
+/Users/doubradaunemigha/Desktop/TIKTACTIE/obj/Debug/net6.0/ref/TIKTACTIE.dll
