@@ -1,0 +1,15 @@
+/Users/doubradaunemigha/Desktop/hilofall22/bin/Debug/net6.0/hilofall22
+/Users/doubradaunemigha/Desktop/hilofall22/bin/Debug/net6.0/hilofall22.deps.json
+/Users/doubradaunemigha/Desktop/hilofall22/bin/Debug/net6.0/hilofall22.runtimeconfig.json
+/Users/doubradaunemigha/Desktop/hilofall22/bin/Debug/net6.0/hilofall22.dll
+/Users/doubradaunemigha/Desktop/hilofall22/bin/Debug/net6.0/hilofall22.pdb
+/Users/doubradaunemigha/Desktop/hilofall22/obj/Debug/net6.0/hilofall22.csproj.AssemblyReference.cache
+/Users/doubradaunemigha/Desktop/hilofall22/obj/Debug/net6.0/hilofall22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doubradaunemigha/Desktop/hilofall22/obj/Debug/net6.0/hilofall22.AssemblyInfoInputs.cache
+/Users/doubradaunemigha/Desktop/hilofall22/obj/Debug/net6.0/hilofall22.AssemblyInfo.cs
+/Users/doubradaunemigha/Desktop/hilofall22/obj/Debug/net6.0/hilofall22.csproj.CoreCompileInputs.cache
+/Users/doubradaunemigha/Desktop/hilofall22/obj/Debug/net6.0/hilofall22.dll
+/Users/doubradaunemigha/Desktop/hilofall22/obj/Debug/net6.0/refint/hilofall22.dll
+/Users/doubradaunemigha/Desktop/hilofall22/obj/Debug/net6.0/hilofall22.pdb
+/Users/doubradaunemigha/Desktop/hilofall22/obj/Debug/net6.0/hilofall22.genruntimeconfig.cache
+/Users/doubradaunemigha/Desktop/hilofall22/obj/Debug/net6.0/ref/hilofall22.dll
