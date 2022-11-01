@@ -1,0 +1,15 @@
+/Users/doubradaunemigha/Desktop/Jumper_Game/bin/Debug/net6.0/Jumper_Game
+/Users/doubradaunemigha/Desktop/Jumper_Game/bin/Debug/net6.0/Jumper_Game.deps.json
+/Users/doubradaunemigha/Desktop/Jumper_Game/bin/Debug/net6.0/Jumper_Game.runtimeconfig.json
+/Users/doubradaunemigha/Desktop/Jumper_Game/bin/Debug/net6.0/Jumper_Game.dll
+/Users/doubradaunemigha/Desktop/Jumper_Game/bin/Debug/net6.0/Jumper_Game.pdb
+/Users/doubradaunemigha/Desktop/Jumper_Game/obj/Debug/net6.0/Jumper_Game.csproj.AssemblyReference.cache
+/Users/doubradaunemigha/Desktop/Jumper_Game/obj/Debug/net6.0/Jumper_Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doubradaunemigha/Desktop/Jumper_Game/obj/Debug/net6.0/Jumper_Game.AssemblyInfoInputs.cache
+/Users/doubradaunemigha/Desktop/Jumper_Game/obj/Debug/net6.0/Jumper_Game.AssemblyInfo.cs
+/Users/doubradaunemigha/Desktop/Jumper_Game/obj/Debug/net6.0/Jumper_Game.csproj.CoreCompileInputs.cache
+/Users/doubradaunemigha/Desktop/Jumper_Game/obj/Debug/net6.0/Jumper_Game.dll
+/Users/doubradaunemigha/Desktop/Jumper_Game/obj/Debug/net6.0/refint/Jumper_Game.dll
+/Users/doubradaunemigha/Desktop/Jumper_Game/obj/Debug/net6.0/Jumper_Game.pdb
+/Users/doubradaunemigha/Desktop/Jumper_Game/obj/Debug/net6.0/Jumper_Game.genruntimeconfig.cache
+/Users/doubradaunemigha/Desktop/Jumper_Game/obj/Debug/net6.0/ref/Jumper_Game.dll
