@@ -79,8 +79,8 @@ namespace Jumper_Game
             {
                 return;
             }
-            iFace.letterChecker();
-            checkWord(iFace.getGuess());
+            face.letterChecker();
+            checkWord(face.getGuess());
             gotWord();
 
    
