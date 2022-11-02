@@ -1,7 +1,7 @@
 using System;
 
 
-namespace hilo
+namespace hilo_game
 {
     public class Card
     {
