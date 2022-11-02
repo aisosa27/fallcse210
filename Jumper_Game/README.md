@@ -1,0 +1,1 @@
+In this Jumper game, the player attempts to solve a puzzle by guessing the letters of a secret word one at a time.
