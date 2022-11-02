@@ -2,13 +2,9 @@ using System;
 using System.Collections.Generic;
 
 
-namespace hilo
+namespace hilo_game
 {
-    /// <summary>
-    /// A person who directs the game. 
-    ///
-    /// The responsibility of a Director is to control the sequence of play.
-    /// </summary>
+    
     public class Director
     {
         Card card1 = new Card();
@@ -19,17 +15,15 @@ namespace hilo
 
         string guess = " ";
 
-        /// <summary>
+       
         /// Constructs a new instance of Director.
-        /// </summary>
+       
         public Director()
         {
 
         }
 
-        /// <summary>
-        /// Starts the game by running the main game loop.
-        /// </summary>
+      
         public void StartGame()
         {
             while (isPlaying)
@@ -42,7 +36,7 @@ namespace hilo
 
         /// <summary>
         /// Asks the user if they want to roll.
-        /// </summary>
+     
         public void GetInputs()
         {
             Console.WriteLine();
@@ -55,9 +49,9 @@ namespace hilo
             
         }
 
-        /// <summary>
+       
         /// Updates the player's score.
-        /// </summary>
+  
         public void DoUpdates()
         {
 
@@ -82,9 +76,9 @@ namespace hilo
            card1.value = card2.value;
         }
         
-        /// <summary>
-        /// Displays the dice and the score. Also asks the player if they want to roll again. 
-        /// </summary>
+     
+        /// Displays the dice and the score and asks the player if they want to roll again. 
+      
         public void DoOutputs()
 
         {   
