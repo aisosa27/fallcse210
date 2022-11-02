@@ -7,7 +7,7 @@ namespace Jumper_Game
         private bool playing = true;
         private Word word = new Word();
         private Jumper jumper = new Jumper();
-        private Interface iFace = new Interface();
+        private Interface face = new Interface();
         private int fails;
         private bool going = true;
         private bool wrong;
