@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCr85GeUs90KgmvdMoVp9qX539TSXu5nCjGbi0OlrohuM+KgV9PZ0qZru1OAVvYX72sbvtrqiPBFhBQerW+19w==",
+  "success": true,
+  "projectFilePath": "/Users/doubradaunemigha/Desktop/cse210_greedgame/cse210_greedgame.csproj",
+  "expectedPackageFiles": [
+    "/Users/doubradaunemigha/.nuget/packages/raylib-cs/4.0.0.1/raylib-cs.4.0.0.1.nupkg.sha512",
+    "/Users/doubradaunemigha/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
